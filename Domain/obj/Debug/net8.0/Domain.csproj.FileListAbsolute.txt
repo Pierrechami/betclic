@@ -1,0 +1,11 @@
+/Users/ChaminadePierre/Documents/betclic/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/ChaminadePierre/Documents/betclic/Domain/bin/Debug/net8.0/Domain.dll
+/Users/ChaminadePierre/Documents/betclic/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/ChaminadePierre/Documents/betclic/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ChaminadePierre/Documents/betclic/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/ChaminadePierre/Documents/betclic/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/ChaminadePierre/Documents/betclic/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ChaminadePierre/Documents/betclic/Domain/obj/Debug/net8.0/Domain.dll
+/Users/ChaminadePierre/Documents/betclic/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/ChaminadePierre/Documents/betclic/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/ChaminadePierre/Documents/betclic/Domain/obj/Debug/net8.0/ref/Domain.dll
